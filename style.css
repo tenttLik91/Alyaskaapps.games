@@ -17,8 +17,8 @@ div
     width: 100vw;
     height: 100vh;
     position: fixed;
-    top: center;
-    left: center;
+    top: 0;
+    left: 0;
     z-index: -10;
     -webkit-background-size: cover;
     -moz-background-size: cover;
