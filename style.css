@@ -8,6 +8,12 @@ div
    font-size:20px;	
 }
 
+
+  html{
+ height:100%;
+ min-height:100%;
+}
+
 body
 {
 	background-image:url("background.jpg");
@@ -15,6 +21,7 @@ body
 	background-color: #464646;
 	background-position: center center;
 	background-repeat: no-repeat;  
+	min-height:100%;
 	
 	
 }
