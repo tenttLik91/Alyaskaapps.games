@@ -19,8 +19,7 @@ div
 
 
 html{
- height:100%;
- min-height:100%;
+ height: 100vh;
  overflow-y: hidden;
 }
 
@@ -33,8 +32,7 @@ body
 	background-color: #464646;
 	background-position: center center;
 	background-repeat: no-repeat;  
-	height:100%;
-	min-height:100%;
+	height: 100vh;
 }
 a:hover { 
 	color:blue;
